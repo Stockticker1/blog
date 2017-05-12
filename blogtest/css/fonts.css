@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Dosis';
+  font-weight: 200;
+  font-style: normal;
+  src: url('/fonts/Dosis-200/Dosis-200.eot');
+  src: url('/fonts/Dosis-200/Dosis-200.eot?#iefix') format('embedded-opentype'),
+       local('Dosis ExtraLight'),
+       local('Dosis-200'),
+       url('/fonts/Dosis-200/Dosis-200.woff2') format('woff2'),
+       url('/fonts/Dosis-200/Dosis-200.woff') format('woff'),
+       url('/fonts/Dosis-200/Dosis-200.ttf') format('truetype'),
+       url('/fonts/Dosis-200/Dosis-200.svg#Dosis') format('svg');
+}
+
+@font-face {
+  font-family: 'Dosis';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/Dosis-regular/Dosis-regular.eot');
+  src: url('/fonts/Dosis-regular/Dosis-regular.eot?#iefix') format('embedded-opentype'),
+       local('Dosis Regular'),
+       local('Dosis-regular'),
+       url('/fonts/Dosis-regular/Dosis-regular.woff2') format('woff2'),
+       url('/fonts/Dosis-regular/Dosis-regular.woff') format('woff'),
+       url('/fonts/Dosis-regular/Dosis-regular.ttf') format('truetype'),
+       url('/fonts/Dosis-regular/Dosis-regular.svg#Dosis') format('svg');
+}
+
+@font-face {
+  font-family: 'Dosis';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/Dosis-700/Dosis-700.eot');
+  src: url('/fonts/Dosis-700/Dosis-700.eot?#iefix') format('embedded-opentype'),
+       local('Dosis Bold'),
+       local('Dosis-700'),
+       url('/fonts/Dosis-700/Dosis-700.woff2') format('woff2'),
+       url('/fonts/Dosis-700/Dosis-700.woff') format('woff'),
+       url('/fonts/Dosis-700/Dosis-700.ttf') format('truetype'),
+       url('/fonts/Dosis-700/Dosis-700.svg#Dosis') format('svg');
+}
+
