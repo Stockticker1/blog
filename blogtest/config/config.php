@@ -6,22 +6,4 @@ define('DB_NAME','blogtest');
 
 $site_description = 'Blog about old manual lenses. A place, where you can find some information about old Canon and Minolta manual lenses.';
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
