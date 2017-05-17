@@ -14,6 +14,7 @@
     <link href="../css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="../css/custom.css" rel="stylesheet">
+    
   </head>
   <body>
     <div class="blog-masthead">

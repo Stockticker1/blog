@@ -8,9 +8,9 @@ $uid = $_POST['uid'];
 
 $sql = "SELECT * FROM user WHERE uid='$uid' AND pwd='$pwd'";
 $result = $db->select($sql);
-if(!$row = $result->fetch(PDO::FETCH_ASSOC)) {
+if(!$result) {
   echo 'Your username or password is incorrect.';
-} else {
+} else if ($row = $result->fetch(PDO::FETCH_ASSOC)) {
   $_SESSION['id'] = $row['id'];
   if($_SESSION['id'] == 1) {
     header("Location: ../admin/index.php"); 
